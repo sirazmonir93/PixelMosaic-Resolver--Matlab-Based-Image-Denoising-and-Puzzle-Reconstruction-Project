@@ -39,6 +39,8 @@ Features
     
 *   **Image Reconstruction**: Rebuilds the complete image using optimally positioned and rotated pieces
     
+![B1-Group-5_EEE-4702_Project-Report-3](https://github.com/user-attachments/assets/26390ff8-f1bc-4adb-bfd1-b7b348d0897f)
+
 
 Project Structure
 -----------------
@@ -86,6 +88,9 @@ Algorithm Details
 5.  **Error Minimization**: Uses MSE to find optimal piece placement
     
 6.  **Reconstruction**: Assembles final image using best matches
+
+![B1-Group-5_EEE-4702_Project-Report-2](https://github.com/user-attachments/assets/617337b5-e684-47c5-a27a-c251706fd105)
+
     
 
 Key Functions and Techniques
@@ -131,6 +136,8 @@ Usage Instructions
         
     *   **Console Output**: Optimal rotations and positions matrices
         
+![B1-Group-5_EEE-4702_Project-Report-6](https://github.com/user-attachments/assets/6c7999ad-67d6-4a31-8fac-043b80c3d9ed)
+
 
 Output Interpretation
 ---------------------
@@ -225,6 +232,16 @@ Limitations and Future Enhancements
 *   Rotation limited to 90° increments
     
 *   MSE may not always capture perceptual similarity
+
+
+### Graphical User Interface app:
+
+![B1-Group-5_EEE-4702_Project-Report-9](https://github.com/user-attachments/assets/fcde4971-0742-455d-84ec-e7c83768717a)
+![B1-Group-5_EEE-4702_Project-Report-8](https://github.com/user-attachments/assets/0e6a218a-191e-42ba-8944-34f18cc98c41)
+
+
+![B1-Group-5_EEE-4702_Project-Report-10](https://github.com/user-attachments/assets/3585a0f3-5e14-411a-8d9e-0fc266db9482)
+
     
 
 ### Potential Enhancements:
